@@ -1,0 +1,34 @@
+h1 {
+    color: purple;
+    background-color: rgb(228, 87, 87);
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
+
+.top {
+    text-align: left;   
+    background-color: rgb(128, 0, 128);
+    color: rgb(228, 87, 87);
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+.is {
+    background-color: blue;
+    color: white;
+}
+
+h3 {
+    color: blue;
+}

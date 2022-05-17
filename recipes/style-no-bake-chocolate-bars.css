@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+img {
+    height: 410px;
+    width: auto;
+}
+
+#visit {
+    text-align: center;
+}
+
+h3 {
+    background-color: brown;
+    color: white;
+}
+
+ul {
+    background-color: brown;
+    color: white;
+}
+
+ol {
+    background-color: brown;
+    color: white;
+}

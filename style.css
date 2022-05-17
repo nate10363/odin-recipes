@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
+
+h5 {
+    text-align: center;
+    width: auto;
+}
+
+h2 {
+    background-color: blue;
+    color: white;
+}
+
+p {
+    background-color: cornflowerblue;
+    color: white;
+}
